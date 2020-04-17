@@ -8,7 +8,7 @@ export default class app extends Component {
 
   render() {
     return(
-      <div>
+      <div class="body">
       <SignIn/>
       </div>
     )

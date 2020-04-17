@@ -7,13 +7,13 @@ function SignIn() {
         <div class ="parent">
             <ul class="children">
                 <li>
-                    <input class="username"></input>
+                    <input class="username" placeholder="Username"></input>
                 </li>
                 <li>
-                    <input class ="password"></input>
+                    <input class ="password" placeholder="Password"></input>
                 </li>
                 <li>
-                    <input class="password1"></input>
+                    <input class="password1" placeholder="Confirm Password"></input>
                 </li>
             </ul>
         </div>
