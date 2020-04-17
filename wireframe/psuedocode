@@ -1,0 +1,11 @@
+use if else statements to create user input from whenever they they comment,
+add photos, create accounts and when deleting accounts and forums.
+use css to create onclick effects for buttons and input so people can
+create accounts and be able to sign in said accounts.
+
+
+create gallery using css add functionality using if else statements for now
+add css effects to allow min maxing of photos.
+
+
+create functionality for login page and link to sign up page if new user.
