@@ -9,3 +9,13 @@ add css effects to allow min maxing of photos.
 
 
 create functionality for login page and link to sign up page if new user.
+
+
+
+
+
+
+------login/sign up page------
+use css to create layout with the center being a flexbox style grid that has usernames
+password and confirm password  in input boxes.
+also add users database and save the users that are being created.
