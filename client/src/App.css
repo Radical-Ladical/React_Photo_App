@@ -8,7 +8,7 @@
   border-radius: 20%;
   background-size:cover;
   position: absolute;
-  left: 450px;
+  left: 425px;
   top: 500px;
 }
 .children {
@@ -41,7 +41,7 @@
   position: absolute;
   background-color: red;
   height: 1500px;
-  width: 1500px;
+  width: 1450px;
   background: url("./assets/background.jpeg") fixed;
   background-size: cover;
 }
