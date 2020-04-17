@@ -4,11 +4,13 @@ import React from 'react'
 function SignIn() {
     return(
         <React.Fragment>
-            <ul class ="parent">
+        <div class ="parent">
+            <ul class="children">
                 <li>nav yay!!!</li>
-                <li></li>
-                <li></li>
+                <li>oh my gawd</li>
+                <li>dang that cray cray</li>
             </ul>
+        </div>
         </React.Fragment>
     )
 }

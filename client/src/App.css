@@ -1,13 +1,20 @@
 .parent {
   display: flex;
   background-color: red;
-  background:url("./assets/background.jpeg") fixed;
+  background:url("./assets/background.jpeg") center;
   height: 700px;
   width:900px;
   color: aliceblue;
   border-radius: 20%;
   background-size:cover;
   position: absolute;
-  left: 200px;
+  left: 250px;
   top: 200px;
+}
+.children {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  justify-content: space-between;
+  justify-content: space-evenly;
 }
