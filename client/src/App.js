@@ -9,7 +9,7 @@ export default class app extends Component {
   render() {
     return(
       <div>
-      wow
+      wow trial
       </div>
     )
   }
