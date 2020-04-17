@@ -1,15 +1,15 @@
 .parent {
   display: flex;
   background-color: red;
-  background:url("./assets/background.jpeg") center;
+  background:url("./assets/signIn-background.jpg") center;
   height: 700px;
-  width:900px;
+  width:600px;
   color: aliceblue;
   border-radius: 20%;
   background-size:cover;
   position: absolute;
-  left: 250px;
-  top: 200px;
+  left: 450px;
+  top: 500px;
 }
 .children {
   display: flex;
@@ -23,17 +23,25 @@
   background-color:rgba(248, 231, 231, 0.493);
   color:purple;
   position:absolute;
-  left: 375px;
+  left: 250px;
 }
 .password{
   background-color:rgba(248, 231, 231, 0.493);
   color:purple;
   position: absolute;
-  left: 375px;
+  left: 250px;
 }
 .password1{
   background-color:rgba(248, 231, 231, 0.493);
   color:purple;
   position: absolute;
-  left: 375px;
+  left: 250px;
+} 
+.body {
+  position: absolute;
+  background-color: red;
+  height: 1500px;
+  width: 1500px;
+  background: url("./assets/background.jpeg") fixed;
+  background-size: cover;
 }
