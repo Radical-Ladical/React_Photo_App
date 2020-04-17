@@ -4,8 +4,8 @@ import React from 'react'
 function SignIn() {
     return(
         <React.Fragment>
-            <ul>
-                <li></li>
+            <ul class ="parent">
+                <li>nav yay!!!</li>
                 <li></li>
                 <li></li>
             </ul>
